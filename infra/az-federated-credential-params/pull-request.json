@@ -1,7 +1,7 @@
 {
     "name": "pull-request",
     "issuer": "https://token.actions.githubusercontent.com",
-    "subject": "repo:Keshav-Lamichhane/cst8918-w25-lab12new:pull_request",
+    "subject": "repo:klamichhane738/cst8918-w25-lab12new:pull_request",
     "description": "CST8918 Lab12 - GitHub Actions",
     "audiences": ["api://AzureADTokenExchange"]
   }
