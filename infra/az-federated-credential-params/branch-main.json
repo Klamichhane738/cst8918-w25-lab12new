@@ -1,0 +1,8 @@
+{
+    "name": "branch-main",
+    "issuer": "https://token.actions.githubusercontent.com",
+    "subject": "repo:Klamichhane738/cst8918-w25-lab12new:ref:refs/heads/main",
+    "description": "CST8918 Lab12 - GitHub Actions",
+    "audiences": ["api://AzureADTokenExchange"]
+  }
+  
