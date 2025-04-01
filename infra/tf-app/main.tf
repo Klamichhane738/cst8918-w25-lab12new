@@ -3,6 +3,6 @@ resource "azurerm_resource_group" "app_rg" {
   location = "East US"
 
   tags = {
-    environment = "production2"
+    environment = "production"
   }
 }
